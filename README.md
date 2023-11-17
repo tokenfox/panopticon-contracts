@@ -1,5 +1,9 @@
 # panopticon-contracts
 
+**Smart Contracts for Panopticon**, an on-chain art project
+
+![stack](stack.png)
+
 ## Development
 
 Building:
